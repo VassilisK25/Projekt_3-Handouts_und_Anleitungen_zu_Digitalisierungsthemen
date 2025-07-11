@@ -6,5 +6,7 @@ Anleitung zur Erstellung eines Kennzahlenberichts, von der Datenaufbereitung, bi
 
 Für mein zuletzt absolviertes Praktikum bei einem Finanzinstitut, wurde ich mit der Erstellung einer Anleitung für die Entwicklung von Kennzahlenberichten mit SAS Studio und VA beauftragt.
 
-Hier ist ein kleiner Auszug dieser Arbeit.
+
+
+Hier ist ein kleiner Auszug dieser Arbeit - dabei wird explizit darauf geachtet, keine Unternehmensinterna preiszugeben. 
 
