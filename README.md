@@ -11,3 +11,7 @@ Es handelt sich um einen kleinen Auszug dieser Arbeit - dabei wird explizit dara
 Dokument 2: Handout_Digitalisierungsinitiativen
 
 Eines der Ziele der Wirtschaftsinformatik ist es fachlichen und alltäglichen Problemen unserer Zeit mit Digitalisierungslösungen zu begegnen. Mit diesem Handout versuche ich einige der grundlegenden Merkmale von Initiativen digitaler Transformation hervorzuheben. Dabei werden exemplarisch auch einige konkrete Vorhaben nahmhafter Unternehmen vorgestellt. 
+
+Dokument 3: Handout_Cybersicherheit
+
+Ein Thema, dass mit der zunehmenden Digitalisierung in allen Wirtschaftsbereichen auch immer bedeutender wird, ist das Thema der Cybersicherheit. Mit diesem Handout sollen einige der wichtigsten Grundlagen für IT-/ Cybersicherheit angeschnitten werden. 
